@@ -380,10 +380,14 @@ footer p:nth-child(2){
 }
 
 .end{
+    width: 100%;
+    margin-top: 10px;
+    text-align: center;
+    background-color: #191919;
     position: absolute;
     color: #f9004d;
     bottom: 35px;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .end span{
