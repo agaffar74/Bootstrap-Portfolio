@@ -4,7 +4,7 @@
     font-family: 'Josefin Sans', sans-serif;
     box-sizing: border-box;
 }
-
+/* Style the Hero section of the page */
 .hero {
     height:100vh;
     width: 100%;
@@ -359,7 +359,7 @@ footer p:nth-child(2){
 .social {
     display: flex;
 }
-
+/* Style the Social Media icons */
 .social a{
     width: 45px;
     height: 45px;
@@ -390,3 +390,4 @@ footer p:nth-child(2){
     color: #fff;
 }
 
+/* The End of CSS Style sheet */
