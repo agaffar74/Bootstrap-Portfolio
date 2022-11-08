@@ -31,7 +31,7 @@ GitHub repository contains application code.
 Installation
 The site is published in github. The site can be updated using git bash commandsand changes to push to Git Hub repository by gitbash commands
 
-The site is live at GitHub: (https://agaffar74.github.io/Bootstrap-Portfolio/)
+The site is live at GitHub: https://agaffar74.github.io/Bootstrap-Portfolio/
 The Site is also live at: https://agaffar74.github.io/Bootstrap-Portfolio/
 Images were used in jpg and jpeg format and listed below:
 ![Uploading Img-hero.png…]
