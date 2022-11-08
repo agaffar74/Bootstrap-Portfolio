@@ -114,6 +114,7 @@ h4{
     width: 100%;
     max-width: 95%;
     background-color: #191919;
+    border-radius: 40px;
     margin: 10px auto;
     text-align: center;
     justify-content: space-around;
@@ -155,6 +156,7 @@ h4{
 .skill.title {
     width: 100%;
     max-width: 95%;
+    border-radius: 20px;
     background-color: #191919;
     margin: 10px auto;
     text-align: center;
