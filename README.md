@@ -17,32 +17,43 @@ When the page is resized or viewed on various screens and devices then the layou
 Portfolio work:
 Portfolio images are not representing my work at all. This images were randomly used just as part of the presentation of the web page.
 
-Acceptance Criteria:
-Satisfies all of the acceptance criteria deswcribed in the assignment readme.md file.
-Deployment
-Application deployed at live URL.
+### Using Bootstrap, the bootstrap-portfolio site has been created with the following items:
 
-Application loads with no errors.
+- A navigation bar
 
-Application GitHub URL submitted.
+- A navigation menu at the top.
 
-GitHub repository contains application code.
+- Includef links that are applicable to my portfolio.
 
-Installation
+- Links used that navigate to the appropriate sections
+
+## Acceptance Criteria:
+- Satisfies all of the acceptance criteria deswcribed in the assignment readme.md file.
+
+## Deployment
+- Application deployed at live URL.
+
+- Application loads with no errors.
+
+- Application GitHub URL submitted.
+
+- GitHub repository contains application code.
+
+## Installation
 The site is published in github. The site can be updated using git bash commandsand changes to push to Git Hub repository by gitbash commands
 
-The site is live at GitHub: https://agaffar74.github.io/Bootstrap-Portfolio/
+## The site is live at GitHub: https://agaffar74.github.io/Bootstrap-Portfolio/
 
-The Site is also live at: https://agaffar74.github.io/Bootstrap-Portfolio/
+## The Site is also live at: https://agaffar74.github.io/Bootstrap-Portfolio/
 
-Images were used in jpg and jpeg format and listed below:
+## Images were used in jpg and jpeg format and listed below:
 ![Uploading Img-hero.png…]
 
-Contact
+## Contact
 If you have any questions, please contact me at:
 
-Github Profile: agaffar74
+- Github Profile: agaffar74
 
-Email: a_gaffar74@yahoo.com
+= Email: a_gaffar74@yahoo.com
 
-LinkedIn: abdul-gaffar74
+= LinkedIn: abdul-gaffar74
